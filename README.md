@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨‍💻 João Guilherme Domingues Morinari  
 
-<!--
-**morinaridev/morinaridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Desenvolvimento de Sistemas | Técnico em Comércio Exterior | Freelancer em Desenvolvimento Web**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação Acadêmica  
+- **2º Ano do Ensino Médio Técnico em Comércio Exterior**  
+  - *Trilha Desenvolvimento de Sistemas* – EMTI Fernando Ferrari  
+- **Cursos Complementares:**  
+  - **Introdução ao Desenvolvimento JavaScript** – SENAC São Leopoldo/RS  
+  - **Backend com TypeScript** – SENAC São Leopoldo/RS
+  - **Soft Skills** - SENAC São Leopoldo/RS
+  - **Missão Programação do Zero** – Rodolfo Mori  
+  - **HTML5 e CSS3** – Gustavo Guanabara  
+  - **Inglês e Espanhol (Iniciante)** – IFRS  
+
+---
+
+## 💻 Habilidades  
+### Linguagens e Tecnologias  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+- **Python**  
+- **SQL (Básico)**  
+- **TypeScript** 
+  **Next.JS** 
+
+---
+
+## ⚡ Áreas de Atuação  
+- Desenvolvimento Web  
+- Criação de Interfaces Responsivas  
+
+---
+
+## 🚀 Experiência  
+- **Freelancer em Desenvolvimento Web**  
+  - Focado em soluções simples e funcionais para atender as necessidades dos clientes.  
+
+---
+
+## 📬 Contato  
+- **Email:** [joaogdominguesm@gmail.com](mailto:joaogdominguesm@gmail.com)  
+
+---
