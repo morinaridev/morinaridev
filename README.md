@@ -25,7 +25,7 @@
 - **Python**  
 - **SQL (Básico)**  
 - **TypeScript** 
-  **Next.JS** 
+- **Next.JS** 
 
 ---
 
