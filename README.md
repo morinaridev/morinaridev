@@ -25,13 +25,13 @@
 - **Python**  
 - **SQL (Básico)**  
 - **TypeScript** 
-- **Next.JS** 
+- **Next.JS**
+- **Java** 
 
 ---
 
-## ⚡ Áreas de Atuação  
-- Desenvolvimento Web  
-- Criação de Interfaces Responsivas  
+## ⚡ Áreas de Atuação    
+- Backend
 
 ---
 
