@@ -5,14 +5,13 @@
 ---
 
 ## 🎓 Formação Acadêmica  
-- **2º Ano do Ensino Médio Técnico em Comércio Exterior**  
+- **3º Ano do Ensino Médio Técnico em ADS**  
   - *Trilha Desenvolvimento de Sistemas* – EMTI Fernando Ferrari  
 - **Cursos Complementares:**  
   - **Introdução ao Desenvolvimento JavaScript** – SENAC São Leopoldo/RS  
   - **Backend com TypeScript** – SENAC São Leopoldo/RS
   - **Soft Skills** - SENAC São Leopoldo/RS
   - **Missão Programação do Zero** – Rodolfo Mori  
-  - **HTML5 e CSS3** – Gustavo Guanabara  
   - **Inglês e Espanhol (Iniciante)** – IFRS  
 
 ---
@@ -31,7 +30,8 @@
 ---
 
 ## ⚡ Áreas de Atuação    
-- Backend
+- Backend (Júnior)
+- Frontend (Júnior)
 
 ---
 
